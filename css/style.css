@@ -17,3 +17,12 @@ table{
 .foto{
     border-radius: 50px; 
 }
+.Habilidades{
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+}
+.width{
+    background-color: aquamarine;
+}
+
