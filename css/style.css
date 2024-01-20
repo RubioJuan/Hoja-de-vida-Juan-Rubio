@@ -25,3 +25,28 @@ table{
 .width{
     background-color: aquamarine;
 }
+.PE{
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+}
+.Contactos{
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+}
+.PP{
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+}
+.INA{
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+}
+.INP{
+    border: 2px;
+    border-style: solid;
+    border-color:black;
+}
